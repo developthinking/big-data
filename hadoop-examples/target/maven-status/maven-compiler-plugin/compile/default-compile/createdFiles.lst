@@ -1,0 +1,7 @@
+com\wt\hadoop_examples\ch03_hdfs\FileSystemDoubleCat.class
+com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureMapper.class
+com\wt\hadoop_examples\ch03_hdfs\URLCat.class
+com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureReducer.class
+com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureWithCombiner.class
+com\wt\hadoop_examples\ch03_hdfs\FileSystemCat.class
+com\wt\hadoop_examples\ch02_mr_intro\MaxTemperature.class
