@@ -1,4 +1,4 @@
-package com.wt.hadoop_examples.ch02_mr_intro;
+package com.wt.hadoop_examples.wordcount.v2;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -109,7 +109,7 @@ public class WordCountV2 extends Configured implements Tool {
 	}
 
 	public int run(String[] args) throws Exception {
-		JobConf conf = new JobConf(getConf(), WordCount.class);
+		JobConf conf = new JobConf(getConf(), WordCountV2.class);
 		conf.setJobName("wordcount");
 		
 		conf.setOutputKeyClass(Text.class);

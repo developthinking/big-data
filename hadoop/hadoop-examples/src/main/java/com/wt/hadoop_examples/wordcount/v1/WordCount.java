@@ -1,4 +1,4 @@
-package com.wt.hadoop_examples.ch02_mr_intro;
+package com.wt.hadoop_examples.wordcount.v1;
 
 import java.io.IOException;
 import java.util.Iterator;

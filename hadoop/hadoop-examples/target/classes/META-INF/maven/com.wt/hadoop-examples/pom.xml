@@ -17,7 +17,7 @@
     <!-- Component versions are defined here -->
     <avro.version>1.7.7</avro.version>
     <crunch.version>0.11.0-hadoop2</crunch.version>
-    <hadoop.version>2.5.1</hadoop.version>
+    <hadoop.version>2.6.0</hadoop.version>
     <hbase.version>0.98.7-hadoop2</hbase.version>
     <hive.version>0.13.1</hive.version>
     <mrunit.version>1.1.0</mrunit.version>
@@ -52,18 +52,18 @@
   </dependencies>
   
   <build>
-	<finalName>wordcount</finalName>
+	<finalName>flowSum</finalName>
 	<plugins>
         <plugin>
             <artifactId>maven-assembly-plugin</artifactId>
-            <configuration>
-                <!-- 修复 打包 没有主清单属性的时候 -->
+            <!-- <configuration>
+                修复 打包 没有主清单属性的时候
                 <archive>
                     <manifest>
                         <mainClass>com.wt.hadoop_examples.ch02_mr_intro.WordCount</mainClass>
                     </manifest>
                 </archive>
-            </configuration>
+            </configuration> -->
         </plugin>
     </plugins>
 	<!-- <plugins>
