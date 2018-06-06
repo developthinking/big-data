@@ -2,6 +2,12 @@ F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_h
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureWithCombiner.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileSystemDoubleCat.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureMapper.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch06_mr\ConfigurationPrinter.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperature.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\WordCount.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch05_IO\StreamCompressor.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\ListStatus.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\WordCountV2.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileCopyWithProgress.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\URLCat.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureReducer.java
