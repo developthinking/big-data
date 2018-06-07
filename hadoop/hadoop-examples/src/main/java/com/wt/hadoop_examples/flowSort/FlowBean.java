@@ -1,12 +1,13 @@
-package com.wt.hadoop_examples.flowSum;
+package com.wt.hadoop_examples.flowSort;
 
 import java.io.DataInput;
 import java.io.DataOutput;
 import java.io.IOException;
 
 import org.apache.hadoop.io.Writable;
+import org.apache.hadoop.io.WritableComparable;
 
-public class FlowBean implements Writable {
+public class FlowBean implements WritableComparable<FlowBean> {
 	
 	/** 手机号 */
 	private String phoneNB;
@@ -85,4 +86,9 @@ public class FlowBean implements Writable {
 		return "" + upFlow + "\t" + downFlow + "\t" + sumFlow;
 	}
 	
+	/** sort */
+	public int compareTo(FlowBean obj) {
+		return sumFlow>obj.getSumFlow() ? -1:1;
+	}
+
 }

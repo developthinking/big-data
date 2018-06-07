@@ -1,14 +1,17 @@
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperature.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch05_IO\StreamCompressor.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\URLCat.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSort\FlowBean.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\wordcount\v3\WCRunner.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSumArea\AreaPartitioner.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSum\FSRunner.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\wordcount\v1\WordCount.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSort\FSSortMR.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileSystemCat.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureWithCombiner.java
-F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch06_mr\ConfigurationPrinter.java
-F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileSystemDoubleCat.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureMapper.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileSystemDoubleCat.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch06_mr\ConfigurationPrinter.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\wordcount\v3\WCReducer.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\ListStatus.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch03_hdfs\FileCopyWithProgress.java
@@ -16,5 +19,6 @@ F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSu
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\ch02_mr_intro\MaxTemperatureReducer.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSum\FlowBean.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSum\FSReducer.java
+F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\flowSumArea\FSSumArea.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\wordcount\v2\WordCountV2.java
 F:\hadoop_work_space\hadoop-examples\src\main\java\com\wt\hadoop_examples\wordcount\v3\WCMapper.java
